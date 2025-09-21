@@ -1,19 +1,25 @@
 [
   {
-    "internalName": "yourplugin",
-    "name": "Your Plugin Name",
-    "description": "What your plugin does",
+    "internalName": "AIOFighter - Dennis",
+    "name": "AIO Dennis",
+    "description": "Microbot AIO Fighter plugin",
     "tags": [
-      "utility",
-      "combat"
+      "fight",
+      "microbot",
+      "misc",
+      "combat",
+      "playerassistant"
     ],
-    "version": "1.0.0",
-    "minClientVersion": "1.11.17",
+    "version": "2.0.4",
+    "minClientVersion": "2.0.7",
     "authors": [
-      "YourName"
+      "Mocrosoft",
+      "See1Duck"
     ],
-    "iconUrl": "https://yourdomain.com/mybotproducts-hub/icons/yourplugin.png",
-    "sha256": "hash-of-your-jar-file",
-    "url": "https://yourdomain.com/mybotproducts-hub/plugins/yourplugin.jar"
+    "iconUrl": "https://chsami.github.io/Microbot-Hub/AIOFighterPlugin/assets/icon.png",
+    "cardUrl": "https://chsami.github.io/Microbot-Hub/AIOFighterPlugin/assets/card.png",
+    "disable": false,
+    "sha256": "f381e46ef8cc51954d0fcf899c608d2a92c0bcc96e307795fef3ae7fdc012878",
+    "url": "https://nexus.microbot.cloud/repository/microbot-plugins/net/runelite/client/plugins/microbot/aiofighterplugin/2.0.4/aiofighterplugin-2.0.4.jar"
   }
 ]
