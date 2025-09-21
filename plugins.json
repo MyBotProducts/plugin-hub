@@ -1,0 +1,19 @@
+[
+  {
+    "internalName": "yourplugin",
+    "name": "Your Plugin Name",
+    "description": "What your plugin does",
+    "tags": [
+      "utility",
+      "combat"
+    ],
+    "version": "1.0.0",
+    "minClientVersion": "1.11.17",
+    "authors": [
+      "YourName"
+    ],
+    "iconUrl": "https://yourdomain.com/mybotproducts-hub/icons/yourplugin.png",
+    "sha256": "hash-of-your-jar-file",
+    "url": "https://yourdomain.com/mybotproducts-hub/plugins/yourplugin.jar"
+  }
+]
